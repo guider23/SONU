@@ -1,4 +1,4 @@
-# [Roxy's SONU](https://roxy.bcworks.in.net) &middot; [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Build](https://img.shields.io/badge/build-PyInstaller-orange.svg)](https://pyinstaller.org/)
+# [Roxy's SONU](https://roxy.bcworks.in.net) &middot; [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows) [![Build](https://img.shields.io/badge/build-PyInstaller-orange.svg)](https://pyinstaller.org/)
 
 A Windows activity that ~~█████████ █████ ███ █████ ████ ██ ████████ ███████ ██ ████████~~
 
