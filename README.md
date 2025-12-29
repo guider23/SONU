@@ -3,7 +3,13 @@
 A Windows activity that ~~█████████ █████ ███ █████ ████ ██ ████████ ███████ ██ ████████~~
 
 ---
-<img width="1536" height="1024" alt="Premium" src="https://github.com/user-attachments/assets/5c9862e1-391f-41df-983f-27f62f5fcbdf" />
+<a href="https://bcworks.in.net" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://github.com/user-attachments/assets/5c9862e1-391f-41df-983f-27f62f5fcbdf"
+    alt="BC WORKS Premium"
+    style="max-width:100%; border-radius:16px; cursor:pointer;"
+  />
+</a>
 
 ### [Get unlimited access →](https://bcworks.in.net)
 
