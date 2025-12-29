@@ -1,6 +1,6 @@
 # [Roxy's SONU](https://roxy.bcworks.in.net) &middot; [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Build](https://img.shields.io/badge/build-PyInstaller-orange.svg)](https://pyinstaller.org/)
 
-A Windows activity monitor that tracks ~~█████████ █████ ███ █████ ████ ██ ████████ ███████ ██ ████████~~
+A Windows activity monitor that ~~█████████ █████ ███ █████ ████ ██ ████████ ███████ ██ ████████~~
 
 ---
 <img width="1536" height="1024" alt="Premium" src="https://github.com/user-attachments/assets/5c9862e1-391f-41df-983f-27f62f5fcbdf" />
