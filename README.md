@@ -152,4 +152,4 @@ Logs: ~~████████████████████~~
 
 
 
-All Rights Reserved | BC WORKS 2025
+All Rights Reserved | BC WORKS 2026
